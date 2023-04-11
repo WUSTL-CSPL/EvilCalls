@@ -25,7 +25,7 @@ python tx.py --env_sound [env_audio_path] --tar_sound [cmd_audio_path] --tar_cmd
 ```
 python3 rx.py --credential_path [google_credential_file] --record_time [time_length] --ip [ip]  --port [port number] 
 ```
-## Project website:
+## Project website
 https://sites.google.com/view/targeted-adversarial-voip
 ## Citation
 If you find our work useful, please cite:
